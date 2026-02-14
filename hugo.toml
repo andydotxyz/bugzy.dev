@@ -17,3 +17,8 @@ title = 'Bugzy'
 [languages]
   [languages.en.params.logo]
     logoText = "Bugzy"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
